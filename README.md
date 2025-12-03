@@ -1,0 +1,2 @@
+# MULTI-LANGUAGE-EYE-SIGN-LANGUAGE-RECOGNITION-MLESLR-
+Multi-Language Eye Sign Language Recognition  (MLESLR)  is a system  that interprets  eye movements — such as gaze direction and blinking patterns — as a form of sign language and converts them into text or speech. It enables hands-free, voice-free communication across multiple languages, especially for users with limited motor or speech abilities.
